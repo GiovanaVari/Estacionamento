@@ -24,7 +24,7 @@ namespace Desafio.Models
 
         public void RemoverVeiculo()
         {
-            // Pede para o usuário digitar a placa e armazenae na variável placa
+            // Pede para o usuário digitar a placa e armazena na variável placa
             Console.WriteLine("Digite a placa do veículo para remover:");
             string placa = Console.ReadLine();
 
